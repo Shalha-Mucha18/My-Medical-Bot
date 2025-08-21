@@ -19,7 +19,7 @@ def get_llm_chain(retriever):
         A RetrievalQA chain configured with the Groq LLM.
     """
     llm = ChatGroq(
-        model="llama-3.1-70b-instruct",
+        model="llama-3.1-8b-instant",
         api_key=GROQ_API_KEY)
     prompt = PromptTemplate(
 
