@@ -1,6 +1,7 @@
 # 🩺 Health Assistant Chatbot  
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)    ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success)     ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)     ![License](https://img.shields.io/badge/License-MIT-green)
+![Python](https://img.shields.io/badge/Python-3.11-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-success) ![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red) ![LLM](https://img.shields.io/badge/LLM-Groq%20LLaMA3--70B-purple) ![RAG](https://img.shields.io/badge/RAG-Enabled-brightgreen) ![Pinecone](https://img.shields.io/badge/VectorDB-Pinecone-blueviolet) ![Embeddings](https://img.shields.io/badge/Embeddings-Google%20GenAI%20%2F%20BGE-orange) ![Demo](https://img.shields.io/badge/Demo-Coming%20Soon-lightgrey) ![License](https://img.shields.io/badge/License-MIT-green)
+
 
 
 A **Medical Domain Chatbot** powered by **Retrieval-Augmented Generation (RAG)**.  
