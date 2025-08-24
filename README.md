@@ -38,7 +38,7 @@ Instead of relying only on pre-trained models, this chatbot intelligently **retr
 
 | Component      | Technology Used                  |
 | -------------- | -------------------------------- |
-| **LLM**        | Groq API (**LLaMA3-70B**)        |
+| **LLM**        | **LLaMA3-70B**      |
 | **Embeddings** | Google Generative AI / BGE       |
 | **Vector DB**  | Pinecone                         |
 | **Framework**  | LangChain                        |
